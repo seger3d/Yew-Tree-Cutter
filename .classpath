@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/John/workspace/Lumbridge Chicken Killer/RSBot.jar"/>
+	<classpathentry kind="lib" path="C:/Users/John/workspace/RedSpiderSpawner/RSBot.jar"/>
+	<classpathentry kind="lib" path="C:/Users/John/workspace/SpiritSpawn/RSBot.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/John/workspace/YewChopper/RSBot.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
